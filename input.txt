@@ -1,0 +1,12 @@
+Input Data - Online Bookstore ISBN Keys
+========================================
+
+Insertion order (used to build the BST, and as the array for Linear Search):
+45, 20, 60, 10, 30, 50, 70, 25, 55
+
+Number of keys (n): 9
+
+Keys to search (Part b):
+25   -> present in the set
+55   -> present in the set
+90   -> absent from the set
